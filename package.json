@@ -16,5 +16,8 @@
     "url": "https://github.com/HusainDhaif/men-stack-crud-app-lab/issues"
   },
   "homepage": "https://github.com/HusainDhaif/men-stack-crud-app-lab#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
